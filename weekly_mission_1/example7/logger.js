@@ -1,4 +1,5 @@
 /*
+
   Este modulo se comporta como si fuera un objeto que contiene todo lo definido
 
   [Module: null prototype] {
