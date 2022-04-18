@@ -5,7 +5,10 @@ const user = {
     relationship: "Single",
     biography: "...",
     numberOfFriends: 500,
-    numbreOfPosts: 23
+    numbreOfPosts: 23,
+    getNumberOfFriends: function(){
+        return this.numberOfFriends
+    }
 }
 
 console.log(user.name)
